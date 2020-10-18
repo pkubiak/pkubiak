@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![codewars badge](https://www.codewars.com/users/pkubiak/badges/small)](https://www.codewars.com/users/pkubiak/)
 <!--
 **pkubiak/pkubiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
