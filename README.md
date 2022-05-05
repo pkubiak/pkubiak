@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=pkubiak&show_icons=true&theme=default&show_icons=true&hide=issues&include_all_commits=true&line_height=24" alt="User Badge" height="140"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkubiak&layout=compact&hide=Jupyter+Notebook&langs_count=6" alt="Top Langs" height="140"/>
 
-![User Badge](https://github-readme-stats.vercel.app/api?username=pkubiak&show_icons=true&theme=default&show_icons=true&hide=issues&include_all_commits=true&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkubiak&layout=compact&hide=Jupyter+Notebook&langs_count=6)
-
-<!--![](https://github-profile-trophy.vercel.app/?username=pkubiak&theme=onedark)-->
+<!--
+<hr/>
+<img src="https://github-profile-trophy.vercel.app/?username=pkubiak&margin-w=4"/>
+-->
 
 Talks: [Language Detection in 7 minutes PyCon PL'2020](https://github.com/pkubiak/pl.pycon.2020)
 
