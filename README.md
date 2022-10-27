@@ -11,7 +11,7 @@ Talks: [Language Detection in 7 minutes PyCon PL'2020](https://github.com/pkubia
 
 [![codewars badge](https://www.codewars.com/users/pkubiak/badges/small)](https://www.codewars.com/users/pkubiak/)
 
-<!--[![Project Euler badge](https://projecteuler.net/profile/pkubiak.png)](https://projecteuler.net/about)-->
+[![Project Euler badge](https://projecteuler.net/profile/pkubiak.png)](https://projecteuler.net/about)
 
 <!--
 **pkubiak/pkubiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
